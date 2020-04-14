@@ -1,4 +1,5 @@
 @Library("Pets-Build") _
-ctl contentLibFlow{
+
+ctlContentLibFlow {
 param1 = '12345'
 }
